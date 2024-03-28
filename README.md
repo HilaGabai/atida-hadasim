@@ -1,4 +1,4 @@
-Sure, here's a README file for the three exercises:
+Sure, here's the updated README file:
 
 ---
 
@@ -18,12 +18,12 @@ For detailed instructions and additional information, refer to the README.md fil
 
 # Exercise 2: Triangle and Rectangle Printing Exercise
 
-This exercise focuses on printing triangles and rectangles with various options using Gaba.
+This exercise focuses on printing triangles and rectangles with various options using Java.
 
 ## Project Setup
 
-1. Access a Gaba workspace.
-2. If a Gaba workspace is not available, consider using an online IDE.
+1. Access a Java workspace.
+2. If a Java workspace is not available, consider using an online IDE.
 
 For detailed instructions and additional information, refer to the README.md file in the project directory.
 
@@ -53,5 +53,3 @@ For detailed information and insights, refer to the provided Word document.
 Feel free to reach out if you have any questions or need further assistance.
 
 ---
-
-This README file provides an overview of the three exercises, their setup requirements, and additional resources. Each exercise is briefly described, and instructions for accessing relevant files or documents are provided.
